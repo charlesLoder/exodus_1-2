@@ -8,6 +8,6 @@ This repository contain Jupiter Notebook that uses the [TextFabric](https://anno
 
 ## View
 
-To see the results it is only necessary to click on the "[Noun-Verb Ratio](Noun-Verb Ratio.ipynb)" notebook.
+To see the results it is only necessary to click on the "[Noun-Verb Ratio](Noun-Verb%20Ratio.ipynb)" notebook.
 
 Additionally, the results have been put into a spreadsheet, available [here](https://docs.google.com/spreadsheets/d/1nownDyZbPYMYnhUSADDKNAtZQGrGNga8bGTOgbxcLjI/edit?usp=sharing).
