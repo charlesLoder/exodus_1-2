@@ -1,6 +1,6 @@
 # Exodus 1–2
 
-This repository contains data about Exodus 1–2 used in the article "Pithom and Rameses" by Hoffmeier and Rendsburg.
+This repository contains data about Exodus 1–2 used in Gary A. Rendsburg and James K. Hoffmeir, "Pithom and Rameses (Exodus 1:11): Historical, Archaeological, and Linguistic Issues (Part II)," _Journal of Ancient Egyptian Interconnections_ 34 (2022): 36–52.
 
 ## About
 
